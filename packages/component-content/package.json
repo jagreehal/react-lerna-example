@@ -1,0 +1,12 @@
+{
+  "name": "component-content",
+  "version": "0.0.1",
+  "description": "Content Component",
+  "main": "dist/index.js",
+  "module": "src/index.js",  
+  "author": "Jag Reehal",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
