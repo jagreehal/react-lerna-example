@@ -6,6 +6,6 @@ import Component from '.';
 describe('Component', function() {
   it('renders without props', function() {
     const wrapper = mount(<Component />);
-    expect(wrapper).toBeOk();
+    expect(wrapper).toBeDefined();
   });
 });
