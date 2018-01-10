@@ -9,6 +9,7 @@
     "start": "NODE_ENV=development start-storybook -p 9001 -c .storybook",
     "test": "jest --verbose",
     "updated": "lerna updated",
+    "prepublish": "npm run test",
     "publish": "lerna publish --yes --skip-npm",
     "postpublish": "git push && git push --tags"
   },
