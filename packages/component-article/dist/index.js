@@ -18,7 +18,8 @@ var Component = function Component() {
   return _react2.default.createElement(
     'article',
     null,
-    _componentContent2.default
+    _react2.default.createElement(_componentContent2.default, { content: '0.0.5' }),
+    _react2.default.createElement('hr', null)
   );
 };
 
