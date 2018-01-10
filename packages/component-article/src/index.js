@@ -3,7 +3,7 @@ import Content from 'component-content';
 
 const Component = () => (
   <article>
-    <Content />
+    <Content content="foo" />
   </article>
 );
 

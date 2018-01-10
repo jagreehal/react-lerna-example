@@ -26,7 +26,7 @@
     "react-test-renderer": "^16.2.0"
   },
   "jest": {
-	"setupTestFrameworkScriptFile": "<rootDir>setupTests.js",
+    "setupTestFrameworkScriptFile": "<rootDir>setupTests.js",
     "resetModules": true,
     "testMatch": [
       "**/?(*.)(spec).js?(x)"
