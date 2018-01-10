@@ -4,6 +4,7 @@ import Content from 'component-content';
 const Component = () => (
   <article>
     <Content content="foo" />
+    <hr />
   </article>
 );
 
