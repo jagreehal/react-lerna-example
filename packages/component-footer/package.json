@@ -1,9 +1,9 @@
 {
   "name": "component-footer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Footer Component",
   "main": "dist/index.js",
-  "module": "src/index.js",  
+  "module": "src/index.js",
   "author": "Jag Reehal",
   "license": "ISC",
   "dependencies": {

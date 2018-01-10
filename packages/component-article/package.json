@@ -1,13 +1,13 @@
 {
   "name": "component-article",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Article Component",
   "main": "dist/index.js",
-  "module": "src/index.js",  
+  "module": "src/index.js",
   "author": "Jag Reehal",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.2.0",
-    "component-content": "0.0.1"
+    "component-content": "^0.0.2",
+    "react": "^16.2.0"
   }
 }
